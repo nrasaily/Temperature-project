@@ -79,3 +79,30 @@ console.log(aVariable,otherVariable);
 const weekDays = 7;
 console.log(weekDays)
 
+let charactor = "Mulla Nasuridhin";
+let object = "Well";
+let place = "in the Village ?";
+let price = "$100";
+let action = "take water"
+
+
+console.log("--- Funny Story---");
+
+console.log("A man asked " + charactor, + " Can I buy your " + object + place );
+console.log( charactor + " sold it but later refused to let the man " + action );
+console.log(" The man complained, I bought the " + object + " at " + price,  + " why can't I " + action);
+console.log(charactor + " replied, you only bought the " + object + " not the water."  );
+
+
+const charactor1 = "Mulla";
+let charactor2 = " The Teacher";
+let charactor3 = "donkey";
+let setting = "tree outside the school";
+
+console.log("---Story No. 2----")
+console.log(charactor1 + " tied his " + charactor3 + " to a" + setting);
+console.log(charactor2 + " angrily said, why bring your " + charactor3 + " here ?");
+console.log(charactor1 + " replied, well I thought he could learn something new."); 
+console.log(charactor2 + " shouted, he is a " + charactor3 + " ! he will never learn!.");
+console.log(charactor1 + " laughed, Exactly why I thought he'd fit in this class.");
+console.log(charactor2 + " never asked.");
