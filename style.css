@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    margin-top: 200px;
+}
+button{
+    color:white;
+    background-color: green;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+header{
+    display: block;
+    
+}
+h2{
+    color: brown;
+}
+
+.hot{
+    color: orange;
+}
+.cold{
+    color:blue;
+}
+
+.normal{
+    color: green;
+}
