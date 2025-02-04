@@ -3,25 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="asgmt3.css">
-    <title>Assignment3</title>
+    <link rel="stylesheet" href="./asgmt3.css">
+    <title>Document</title>
 </head>
 <body>
-    <h1>Convert Temperature</h1>
-    <label for="Temperature">Enter Temperature:</label>
-    <input type="number" id="Temperature">
+    
+    <h2>Convert Temperature</h2>
+    <script src="./Scripts/assinghment3.js"></script>
 
-    <label for="scale">Select Scale:</label>
-    <select id="scale">
-        <option value="C">Celsius</option>
-        <option value="F">Fahrenheit</option>
-    </select>
+    <button onclick="convertTemperature()">Converson</button>
 
-    <button onclick="convertTemperature(
-        prompt(document.getElementById('temperature').value),
-        document.getElementById('scale').value)"></button>
-        
-        <p id="result">here</p>
-    <script src="./Scripts/asgmt3.js"></script>
+    
+
+    <p id="result">Result</p>
 </body>
 </html>
