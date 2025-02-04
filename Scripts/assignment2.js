@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-function convertTemperature(){
+function convertTemperatures(){
     let temperature = prompt("Enter Temperature in Celsius:");
     let fahrenheit = (temperature * 9/5 + 32);
 
