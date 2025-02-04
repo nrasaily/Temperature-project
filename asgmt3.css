@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     margin-top: 20px;
     text-align: center;
@@ -17,4 +18,16 @@ button{
     padding: 10px;
     border-radius: 5px;
     box-shadow: 4px 4px 4px black;
+=======
+body{
+    text-align: center;
+}
+
+.celcius{
+    color: blue;
+}
+
+.fahrenheit{
+    color: rebeccapurple;
+>>>>>>> f64c45bcf76cbadcf2471e6a2cbd88f045990d13
 }

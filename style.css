@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     text-align: center;
     margin-top: 200px;
@@ -26,4 +27,34 @@ h2{
 
 .normal{
     color: green;
+=======
+body{
+    text-align: center;
+    margin-top: 200px;
+}
+button{
+    color:white;
+    background-color: green;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+header{
+    display: block;
+    
+}
+h2{
+    color: brown;
+}
+
+.hot{
+    color: orange;
+}
+.cold{
+    color:blue;
+}
+
+.normal{
+    color: green;
+>>>>>>> f64c45bcf76cbadcf2471e6a2cbd88f045990d13
 }

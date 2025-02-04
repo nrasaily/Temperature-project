@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #studentList{
     display: grid;
     grid-template-columns: 1fr 1fr ;
@@ -8,4 +9,16 @@
 .student{
     border: 1px solid #222222;
     background-color: #dedede;
+=======
+#studentList{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    column-gap: 10px;
+    row-gap: 10px;
+    
+}
+.student{
+    border: 1px solid #222222;
+    background-color: #dedede;
+>>>>>>> f64c45bcf76cbadcf2471e6a2cbd88f045990d13
 }
